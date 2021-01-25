@@ -1,4 +1,4 @@
-<?php require_once "partes/topo.php" ?>
+ <?php require_once "partes/topo.php" ?>
 
 <!---inicio do conteudo -->
 
@@ -12,12 +12,12 @@
        </div>
 
       <div class="d-sm-flex align-items-center justify-content-between mb-4">
-            <h1 class="h3 mb-0 text-gray-800">Provas Multipla Escolha</h1>
+            <h1 class="h3 mb-0 text-gray-800">Provas Multipla escolha</h1>
        </div>
        <hr>
           
        <div class="row">
-            <div class="col-slg-12 mb-4">
+            <div class="col-lg-12 mb-4">
               <!-- Tabela simples -->
               <div class="card">
                 <div class="table-responsive">
@@ -124,10 +124,10 @@
                 <div class="card-footer"></div>
               </div>
             </div>
-          </div>       
+          </div>         
   </div>
   <!---Container-->
 
-   <!-- fim do conteudo -->
-   
+  <!-- fim do conteudo -->
+
   <?php require_once "partes/rodape.php" ?>

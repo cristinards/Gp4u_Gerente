@@ -34,7 +34,7 @@
                 
                   <!--exemplo de select-->
                   <div class="form-group">
-                      <label for="exampleFormControlSelect1">Example select</label>
+                      <label for="exampleFormControlSelect1">Exemplo select</label>
                       <select class="form-control" id="exampleFormControlSelect1">
                         <option>1</option>
                         <option>2</option>
